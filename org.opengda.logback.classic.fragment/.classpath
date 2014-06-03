@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.constants-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.encoder.classic-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.encoder.core-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.sulky.buffers-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.sulky.codec.filebuffer-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.data.converter-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.converter-classic-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.sulky.formatting-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.data.eventsource-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.data.logging-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.data.logging.protobuf-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.appender.multiplex-classic-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.appender.multiplex-core-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.logback.classic-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.lilith.sender-0.9.43.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.sulky.codec-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/de.huxhorn.sulky.io-0.9.16.jar"/>
+	<classpathentry exported="true" kind="lib" path="jars/protobuf-java-2.5.0.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="con" path="org.eclipse.pde.core.requiredPlugins"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
